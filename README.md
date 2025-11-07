@@ -242,17 +242,17 @@ const pavan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=tokyonight&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=tokyonight&bg_color=000000&title_color=58a6ff&icon_color=1f6feb&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=tokyonight&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true&border_radius=20" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true&langs_count=8&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnspavankumar&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true&layout=compact&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=ffffff&hide_border=true&langs_count=8&border_radius=20" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnspavankumar&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=ffffff&hide_border=true&layout=compact&border_radius=20" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true&border_radius=10" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&custom_title=Contribution%20Graph&bg_color=000000&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true&radius=20" width="100%">
 
 </div>
 
