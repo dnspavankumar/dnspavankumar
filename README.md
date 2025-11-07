@@ -14,7 +14,6 @@
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hunter22)
 [![CodeChef](https://img.shields.io/badge/CodeChef-6★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pavankumardns)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnspavankumar722@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmapuri-nagasri-pavan-kumar-579940335/)
 
 </div>
@@ -274,9 +273,6 @@ const pavan = {
 
 <div align="center">
 
-<a href="mailto:dnspavankumar722@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/dharmapuri-nagasri-pavan-kumar-579940335/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -286,12 +282,6 @@ const pavan = {
 <a href="https://www.codechef.com/users/pavankumardns">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-
-### 📧 dnspavankumar722@gmail.com
 
 </div>
 
