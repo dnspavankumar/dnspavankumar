@@ -1,20 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Pavan%20Kumar&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=System%20Builder%20|%20Competitive%20Programmer%20|%20Database%20Engineer&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff4444&height=150&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=100&lines=dnspavankumar" alt="Pixelated Name" />
 
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=800&lines=Building+Systems+From+Scratch+%F0%9F%9A%80;Codeforces+Expert+%7C+CodeChef+6%E2%98%85;Database+Internals+Enthusiast+%F0%9F%97%84%EF%B8%8F;Competitive+Programming+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=800&lines=Building+Systems+From+Scratch+%F0%9F%9A%80;Codeforces+Expert+%7C+CodeChef+6%E2%98%85;Database+Internals+Enthusiast+%F0%9F%97%84%EF%B8%8F;Competitive+Programming+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hunter22)
-[![CodeChef](https://img.shields.io/badge/CodeChef-6★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pavankumardns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmapuri-nagasri-pavan-kumar-579940335/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000)](https://codeforces.com/profile/hunter22)
+[![CodeChef](https://img.shields.io/badge/CodeChef-6★-ff0000?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=000000)](https://www.codechef.com/users/pavankumardns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/dharmapuri-nagasri-pavan-kumar-579940335/)
 
 </div>
 
@@ -69,7 +71,7 @@ const pavan = {
 
 <div align="center">  
 <a href="https://github.com/dnspavankumar/MilletDB">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnspavankumar&repo=MilletDB&theme=react&bg_color=1F222E&title_color=667eea&icon_color=667eea&hide_border=true&show_icons=false" alt="MilletDB" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnspavankumar&repo=MilletDB&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true&show_icons=false&border_radius=15" alt="MilletDB" />
 </a>
 </div>
 
@@ -79,8 +81,8 @@ const pavan = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Concurrency-667eea?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-764ba2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Concurrency-ff0000?style=flat-square&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Database-ff4444?style=flat-square&logoColor=000000&labelColor=000000" />
 </p>
 
 ✨ O(1) LRU cache eviction  
@@ -96,7 +98,7 @@ const pavan = {
 
 <div align="center">
 <a href="https://github.com/dnspavankumar/nice-potato">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnspavankumar&repo=nice-potato&theme=react&bg_color=1F222E&title_color=667eea&icon_color=667eea&hide_border=true&show_icons=false" alt="Nice Potato" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnspavankumar&repo=nice-potato&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true&show_icons=false&border_radius=15" alt="Nice Potato" />
 </a>
 </div>
 
@@ -106,8 +108,8 @@ const pavan = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-667eea?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-764ba2?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-ff0000?style=flat-square&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NLP-ff4444?style=flat-square&logoColor=000000&labelColor=000000" />
 </p>
 
 🤖 Context-aware email retrieval  
@@ -125,7 +127,7 @@ const pavan = {
 
 <div align="center">
 <a href="https://github.com/dnspavankumar/DeepBusinessResearchAssistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnspavankumar&repo=DeepBusinessResearchAssistant&theme=react&bg_color=1F222E&title_color=667eea&icon_color=667eea&hide_border=true&show_icons=false" alt="Deep Business Research Assistant" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=dnspavankumar&repo=DeepBusinessResearchAssistant&theme=dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true&show_icons=false&border_radius=15" alt="Deep Business Research Assistant" />
 </a>
 </div>
 
@@ -135,8 +137,8 @@ const pavan = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI/ML-667eea?style=flat-square" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-764ba2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI/ML-ff0000?style=flat-square&logoColor=000000&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-ff4444?style=flat-square&logoColor=000000&labelColor=000000" />
 </p>
 
 📊 Deep analysis engine • 💼 Market research automation • 🤖 AI-driven insights • 🔬 Business intelligence processing
@@ -165,7 +167,7 @@ const pavan = {
 
 ### 🏆 Codeforces Expert
 
-[![Codeforces](https://img.shields.io/badge/Rating-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hunter22)
+[![Codeforces](https://img.shields.io/badge/Rating-Expert-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000)](https://codeforces.com/profile/hunter22)
 
 **500+ Problems Solved**
 
@@ -176,7 +178,7 @@ const pavan = {
 
 ### ⭐ CodeChef 6 Star
 
-[![CodeChef](https://img.shields.io/badge/Rating-6%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pavankumardns)
+[![CodeChef](https://img.shields.io/badge/Rating-6%20Star-ff0000?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=000000)](https://www.codechef.com/users/pavankumardns)
 
 **300+ Problems Solved**
 
@@ -184,7 +186,7 @@ const pavan = {
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/Total%20Problems-1000+-667eea?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Total%20Problems-1000+-ff0000?style=for-the-badge&logo=leetcode&logoColor=000000&labelColor=000000" />
 
 > *"Algorithms are poetry written in logic. My preferred language? Efficiency."*
 
@@ -241,17 +243,17 @@ const pavan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=tokyonight&bg_color=000000&title_color=58a6ff&icon_color=1f6feb&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=tokyonight&background=000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true&border_radius=20" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=chartreuse-dark&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&border_radius=20" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=chartreuse-dark&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true&border_radius=20&stroke=ff0000" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=ffffff&hide_border=true&langs_count=8&border_radius=20" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnspavankumar&theme=tokyonight&bg_color=000000&title_color=58a6ff&text_color=ffffff&hide_border=true&layout=compact&border_radius=20" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=ff0000&text_color=ffffff&hide_border=true&langs_count=8&border_radius=20" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnspavankumar&theme=chartreuse-dark&bg_color=000000&title_color=ff0000&text_color=ffffff&hide_border=true&layout=compact&border_radius=20" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&custom_title=Contribution%20Graph&bg_color=000000&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true&radius=20" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&custom_title=Contribution%20Graph&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area_color=ff0000&area=true&hide_border=true&radius=20" width="100%">
 
 </div>
 
@@ -259,7 +261,7 @@ const pavan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dnspavankumar&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=dnspavankumar&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
 
 </div>
 
@@ -274,13 +276,13 @@ const pavan = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dharmapuri-nagasri-pavan-kumar-579940335/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000" />
 </a>
 <a href="https://codeforces.com/profile/hunter22">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000" />
 </a>
 <a href="https://www.codechef.com/users/pavankumardns">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-ff0000?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=000000" />
 </a>
 
 </div>
@@ -304,12 +306,14 @@ const pavan = {
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:ff4444&height=120&section=footer" />
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=dnspavankumar&label=Profile%20Views&color=667eea&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/dnspavankumar?label=Followers&style=for-the-badge&color=667eea)
-![GitHub Stars](https://img.shields.io/github/stars/dnspavankumar?label=Stars&style=for-the-badge&color=667eea)
+![Profile Views](https://komarev.com/ghpvc/?username=dnspavankumar&label=Profile%20Views&color=ff0000&style=for-the-badge&labelColor=000000&logoColor=000000)
+![GitHub Followers](https://img.shields.io/github/followers/dnspavankumar?label=Followers&style=for-the-badge&color=ff0000&labelColor=000000&logoColor=000000&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/dnspavankumar?label=Stars&style=for-the-badge&color=ff0000&labelColor=000000&logoColor=000000&logo=github)
 
 </div>
+
+
