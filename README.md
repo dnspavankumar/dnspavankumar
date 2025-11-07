@@ -135,7 +135,7 @@ const pavan = {
 **AI-powered business intelligence and market research automation**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/AI/ML-667eea?style=flat-square" />
   <img src="https://img.shields.io/badge/Data%20Analysis-764ba2?style=flat-square" />
 </p>
@@ -162,9 +162,9 @@ const pavan = {
 <tr>
 <td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">
 
-### <img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="26"> Codeforces Expert
+### 🏆 Codeforces Expert
 
 [![Codeforces](https://img.shields.io/badge/Rating-Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hunter22)
 
@@ -173,9 +173,9 @@ const pavan = {
 </td>
 <td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">
 
-### <img src="https://cdn.iconscout.com/icon/free/png-256/codechef-3628690-3029915.png" width="26"> CodeChef 6 Star
+### ⭐ CodeChef 6 Star
 
 [![CodeChef](https://img.shields.io/badge/Rating-6%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pavankumardns)
 
@@ -242,17 +242,17 @@ const pavan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=react&bg_color=1F222E&title_color=667eea&icon_color=667eea&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=react&bg_color=1F222E&ring=667eea&fire=667eea&currStreakLabel=667eea&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=ffffff&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=tokyonight&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff&hide_border=true&border_radius=10" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=react&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnspavankumar&theme=react&bg_color=1F222E&title_color=667eea&text_color=c9d1d9&hide_border=true&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true&langs_count=8&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dnspavankumar&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&hide_border=true&layout=compact&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&custom_title=Contribution%20Graph&bg_color=1F222E&color=667eea&line=667eea&point=FFFFFF&area_color=667eea&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=true&border_radius=10" width="100%">
 
 </div>
 
