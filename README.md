@@ -53,8 +53,6 @@
 </td>
 </tr>
 </table>
----
-
 <div align="center">
 
 ### 🌃 CONNECT WITH THE DARK KNIGHT
