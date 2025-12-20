@@ -8,13 +8,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=800&lines=Building+Systems+From+Scratch+%F0%9F%9A%80;Codeforces+Expert+%7C+CodeChef+6%E2%98%85;Database+Internals+Enthusiast+%F0%9F%97%84%EF%B8%8F;Competitive+Programming+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=ff0000&center=true&vCenter=true&random=false&width=800&lines=Building+Systems+From+Scratch+%F0%9F%9A%80;Codeforces+Candidate Master+%7C+CodeChef+6%E2%98%85;Database+Internals+Enthusiast+%F0%9F%97%84%EF%B8%8F;Competitive+Programming+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Expert-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000)](https://codeforces.com/profile/hunter22)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Candidate Master-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000)](https://codeforces.com/profile/hunter22)
 [![CodeChef](https://img.shields.io/badge/CodeChef-6★-ff0000?style=for-the-badge&logo=codechef&logoColor=000000&labelColor=000000)](https://www.codechef.com/users/pavankumardns)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/dharmapuri-nagasri-pavan-kumar-579940335/)
 
@@ -36,7 +36,7 @@ const pavan = {
     focus: ["Database Internals", "Concurrency", "Low-Level Systems"],
     currentlyBuilding: "MilletDB - In-Memory Database",
     competitiveProgramming: {
-        codeforces: "Expert",
+        codeforces: "Candidate Master",
         codechef: "6 Star",
         problemsSolved: "1000+"
     },
@@ -50,7 +50,7 @@ const pavan = {
 - 🔨 Building **MilletDB** — an in-memory key-value database with LRU caching
 - 🧠 Deep diving into database internals, concurrency control, and distributed systems
 - 🤖 Creating AI-powered research and automation tools
-- 🏆 **Codeforces Expert** and **CodeChef 6 Star** competitive programmer
+- 🏆 **Codeforces Candidate Master** and **CodeChef 6 Star** competitive programmer
 - 💡 Philosophy: *"Work in silence, design with precision, release with intent"*
 
 <br>
@@ -165,9 +165,9 @@ const pavan = {
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100">
 
-### 🏆 Codeforces Expert
+### 🏆 Codeforces Candidate Master
 
-[![Codeforces](https://img.shields.io/badge/Rating-Expert-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000)](https://codeforces.com/profile/hunter22)
+[![Codeforces](https://img.shields.io/badge/Rating-Candidate Master-ff0000?style=for-the-badge&logo=codeforces&logoColor=000000&labelColor=000000)](https://codeforces.com/profile/hunter22)
 
 **500+ Problems Solved**
 
