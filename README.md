@@ -53,20 +53,6 @@
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-### ❄️ THE GUARDIAN'S DOMAIN ❄️
-
-| 🧠 AI & Vector Search | ⚡ Comp. Programming | 🌐 Full-Stack Dev | 🚀 System Design |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="140"/> | <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="140"/> | <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="140"/> | <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="140"/> |
-| RAG • Semantic Search | DP • Graphs • Algo | MERN • REST APIs | Scalability • Performance |
-
-</div>
-
 ---
 
 <div align="center">
