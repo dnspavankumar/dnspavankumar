@@ -18,32 +18,6 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🎯 THE DARK KNIGHT'S ARSENAL
-
-```javascript
-const darkKnight = {
-  alias: "Pavan Kumar",
-  location: "Hyderabad, India 🌃",
-  mission: "Code. Compete. Conquer.",
-  
-  weapons: {
-    languages: ["C++", "JavaScript", "Python"],
-    frontend: ["React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express", "MongoDB"],
-    ai: ["Pinecone", "Weaviate", "Qdrant"]
-  },
-  
-  powers: [
-    "🧠 Problem Solving (1900+ CF)",
-    "⚡ System Design",
-    "🎯 Algorithmic Mastery",
-    "🌐 Full-Stack Wizardry"
-  ],
-  
-  motto: "The night is darkest before the deploy"
-};
-```
-
 ### 🏆 BATTLE RECORDS
 
 <div align="center">
