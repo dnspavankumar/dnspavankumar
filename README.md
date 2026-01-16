@@ -1,89 +1,172 @@
+# <div align="center">⚔️ COMPETITIVE PROGRAMMER ⚔️</div>
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e3440,3b4252,434c5e&height=220&section=header&text=DHARMAPURI%20NAGASRI%20PAVAN%20KUMAR&fontSize=40&fontColor=eceff4&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20in%20the%20Shadows&descAlignY=55&descSize=18" />
-
-# 🦇 THE DARK KNIGHT OF CODE
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=88C0D0&center=true&vCenter=true&width=800&height=50&lines=I+am+the+night.+I+am+a+developer.;Competitive+Programming+%7C+Candidate+Master;Full+Stack+Architecture+%7C+MERN+%2B+AI;Turning+Coffee+into+Scalable+Systems+☕;Protecting+the+Production+Environment...;1900%2B+Codeforces+%7C+2100%2B+CodeChef" alt="Typing SVG" />
-
----
-
-### ❄️ CANDIDATE MASTER @ CODEFORCES • 6★ @ CODECHEF • MERN ARCHITECT • AI ENGINEER ❄️
-
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=CANDIDATE+MASTER+%7C+CODEFORCES;6-STAR+CODER+%7C+CODECHEF;PROBLEM+SOLVER+%7C+ALGORITHM+ARCHITECT" alt="Typing SVG" />
 </div>
 
-<table align="center">
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║     ██████╗ ██████╗ ██████╗ ███████╗██████╗                              ║
+║    ██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔══██╗                             ║
+║    ██║     ██║   ██║██║  ██║█████╗  ██████╔╝                             ║
+║    ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗                             ║
+║    ╚██████╗╚██████╔╝██████╔╝███████╗██║  ██║                             ║
+║     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝                             ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,12&height=200&section=header&text=dnspavankumar&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
+
+
+
+## <div align="center">🎯 COMPETITIVE PROGRAMMING ACHIEVEMENTS</div>
+
+<div align="center">
+
+```diff
+@@                    ARENA STATISTICS                    @@
+```
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🏆 THE BAT-RECORDS
-*Training in the shadows of Competitive Programming.*
-
-| Platform | Rank | Rating |
-|:--------:|:----:|:------:|
-| **Codeforces** | **Candidate Master** | ![CF](https://img.shields.io/badge/Hunter22-1900+-5E81AC?style=for-the-badge&logo=codeforces) |
-| **CodeChef** | **6 Star** | ![CC](https://img.shields.io/badge/pavankumardns-2100+-81A1C1?style=for-the-badge&logo=codechef) |
-
-<br>
-
-### 🛠️ TECH ARSENAL (BAT-GADGETS)
-*My tools for taking down complex bugs.*
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nodejs,mongodb,express,tailwind,git,docker,linux,aws,py&perline=5&theme=dark" />
-</p>
+### CODEFORCES
+```
+┌─────────────────────────┐
+│  HANDLE: Hunter22       │
+│  RATING: 1910           │
+│  RANK: Candidate Master │
+│  COLOR: [■■■■■■] VIOLET │
+└─────────────────────────┘
+```
+<img src="https://img.shields.io/badge/CODEFORCES-CANDIDATE_MASTER-A020F0?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F1F1F" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 📊 GOTHAM'S SURVEILLANCE
-*Real-time intelligence on active projects.*
-
-<p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dnspavankumar&show_icons=true&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&ring_color=88c0d0" />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnspavankumar&layout=compact&theme=nord&hide_border=true&bg_color=2e3440&title_color=88c0d0&text_color=d8dee9&langs_count=6" />
-</p>
+### CODECHEF
+```
+┌─────────────────────────┐
+│  HANDLE: Pavankumardns  │
+│  RATING: 2227           │
+│  RANK: 6-Star           │
+│  TIER: [★★★★★★] ELITE   │
+└─────────────────────────┘
+```
+<img src="https://img.shields.io/badge/CODECHEF-6_STAR-FFA500?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1F1F1F" />
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+<div align="center">
+  
+| PLATFORM | HANDLE | RATING | TIER |
+|:--------:|:------:|:------:|:----:|
+| **CODEFORCES** | `Hunter22` | **1910** | **CANDIDATE MASTER** |
+| **CODECHEF** | `Pavankumardns` | **2227** | **6-STAR** |
+
+</div>
+
+---
+
+## <div align="center">📊 ACTIVITY VISUALIZATION</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&custom_title=CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dnspavankumar&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy"/>
+</div>
+
+---
+
+## <div align="center">⚙️ TECHNOLOGY ARSENAL</div>
 
 <div align="center">
 
-### 🌌 TACTICAL DEPLOYMENT (STREAK)
-*Consistency is the only path to justice.*
+```ascii
+┌──────────────────────────────────────────────────────────────┐
+│  CORE LANGUAGES                                              │
+├──────────────────────────────────────────────────────────────┤
+```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnspavankumar&theme=nord&hide_border=true&background=2e3440&stroke=88c0d0&ring=81a1c1&fire=bf616a&currStreakLabel=88c0d0)
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js&theme=dark" />
 
-<br>
+```ascii
+├──────────────────────────────────────────────────────────────┤
+│  FRAMEWORKS & TOOLS                                          │
+├──────────────────────────────────────────────────────────────┤
+```
 
-### 🐍 CRIME-FIGHTING ACTIVITY (THE GRID)
-![Snake animation](https://github-user-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%2388C0D0&color_dots=%232e3440,%233b4252,%23434c5e,%234c566a,%2381a1c1)
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,docker&theme=dark" />
 
-<br>
+```ascii
+├──────────────────────────────────────────────────────────────┤
+│  ENVIRONMENT & DATABASE                                      │
+├──────────────────────────────────────────────────────────────┤
+```
 
-### 🌃 COMMUNICATE WITH THE BAT-CAVE
+<img src="https://skillicons.dev/icons?i=linux,vscode,mongodb,postgresql,redis&theme=dark" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5E81AC?style=for-the-badge&logo=linkedin&logoColor=eceff4&labelColor=2e3440)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-88C0D0?style=for-the-badge&logo=google-chrome&logoColor=eceff4&labelColor=2e3440)](https://pavankumar-portfolio-ai-fullstack-ve.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-A3BE8C?style=for-the-badge&logo=gmail&logoColor=eceff4&labelColor=2e3440)](mailto:dnspavankumar722@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-81A1C1?style=for-the-badge&logo=codeforces&logoColor=eceff4&labelColor=2e3440)](https://codeforces.com/profile/Hunter22)
-[![CodeChef](https://img.shields.io/badge/CodeChef-B48EAD?style=for-the-badge&logo=codechef&logoColor=eceff4&labelColor=2e3440)](https://www.codechef.com/users/pavankumardns)
-[![GitHub](https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=eceff4&labelColor=2e3440)](https://github.com/dnspavankumar)
+```ascii
+└──────────────────────────────────────────────────────────────┘
+```
 
-<br>
+</div>
 
-> *"It's not who I am underneath, but what I do that defines me."*
+---
 
-<br>
+## <div align="center">🔗 COMMUNICATION CHANNELS</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dnspavankumar&color=88C0D0&style=for-the-badge&label=CITIZENS_WATCHING)
+<div align="center">
 
-<br>
+<a href="https://linkedin.com/in/dnspavankumar">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:dnspavankumar722@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://codeforces.com/profile/Hunter22">
+  <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.codechef.com/users/Pavankumardns">
+  <img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=434c5e,3b4252,2e3440&height=120&section=footer&animation=fadeIn" />
+</div>
 
+---
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  "The only way to learn a new programming language            ║
+║   is by writing programs in it." - Dennis Ritchie              ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=dnspavankumar&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=twinkling" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=BUILT+WITH+%3C%2F%3E+AND+COFFEE;SOLVING+PROBLEMS+ONE+ALGORITHM+AT+A+TIME;EOF" alt="Footer" />
 </div>
