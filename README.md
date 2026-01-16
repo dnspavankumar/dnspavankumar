@@ -83,9 +83,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnspavankumar&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff&area=true&custom_title=CONTRIBUTION%20GRAPH" width="100%" alt="Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnspavankumar&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" alt="Trophy"/>
-</div>
 
 ---
 
